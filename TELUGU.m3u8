@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ZEE Telugu HD
-http://212.224.98.196:2200/R-EX/TELUGU_ZEE_TELUGU_HD-in/index.m3u8?token=rk
+http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/86080
 #EXTINF:-1,ETV HD
 http://212.224.98.196:2200/R-EX/TELUGU_ETV_HD-in/index.m3u8?token=
 #EXTINF:-1,Gemini HD
@@ -114,7 +114,7 @@ http://rv.imax.re:80/1564996702/4897034110/83971
 #EXTINF:-1,CARTOON NETWORK
 http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52798
 #EXTINF:-1,Zee Telugu HD V2
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/86080
+http://212.224.98.196:2200/R-EX/TELUGU_ZEE_TELUGU_HD-in/index.m3u8?token=rk
 #EXTINF:-1,Gemini Tv HD (Sun Nxt)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43601
 #EXTINF:-1,Gemini Music HD (Sun Nxt)
